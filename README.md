@@ -2,6 +2,8 @@
 
 A powerful and intuitive web application that transforms simple text ideas into stunning, high-quality images. This project uses a sophisticated two-step AI pipeline: **Google Gemini** enhances your basic prompt into a detailed, artistic description, and then **Pollinations.ai** generates a beautiful image based on that enhanced prompt.
 
+## 🚀 Live Demo
+You can try the live app here:https://job-ready-ai-assistance.streamlit.app/
 ## ✨ Features
 
 * **Smart Prompt Enhancement**: Leverages Google Gemini to automatically enrich simple user prompts with cinematic and artistic details.
