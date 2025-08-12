@@ -63,11 +63,11 @@ conda activate text2img/
  pip install -r requirements.txt
 
 ### 4. Set Up Enviroments
-# .env file
-# Get your API key from Google AI Studio ([https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey))
+ .env file
+ Get your API key from Google AI Studio ([https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey))
 GEMINI_API_KEY="YOUR_GOOGLE_GEMINI_API_KEY"
 
-# Pollinations.ai API key (Optional, but recommended for better performance)
+ Pollinations.ai API key (Optional, but recommended for better performance)
 TXTTOIMG_API="YOUR_POLLINATIONS_API_KEY"
-## Run the Application
+### 5.Run the Application
 streamlit run app.py
