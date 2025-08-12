@@ -50,7 +50,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 First, clone the project repository to your local machine.
 ``bash
-git clone [https://github.com/codexankiiit31/text-to-image-using-pollution-Gemini.git]
+git clone [https://github.com/codexankiiit31/text-to-image-using-pollution-Gemini.git].
 cd text-to-image-using-pollution-Gemini
 ``bash
 
@@ -64,10 +64,10 @@ conda activate text2img/
 
 ### 4. Set Up Enviroments
  .env file
- Get your API key from Google AI Studio ([https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey))
-GEMINI_API_KEY="YOUR_GOOGLE_GEMINI_API_KEY"
+ Get your API key from Google AI Studio ([https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)).
+ GEMINI_API_KEY="YOUR_GOOGLE_GEMINI_API_KEY"
 
- Pollinations.ai API key (Optional, but recommended for better performance)
-TXTTOIMG_API="YOUR_POLLINATIONS_API_KEY"
+ Pollinations.ai API key (Optional, but recommended for better performance).
+ TXTTOIMG_API="YOUR_POLLINATIONS_API_KEY"
 ### 5.Run the Application
 streamlit run app.py
